@@ -18,3 +18,6 @@ $ git push
 
 Cek remote Github
 $ git remote -v
+
+Ambil data guthub (clone)
+$ git clone git clone __alamat_github_clone__
