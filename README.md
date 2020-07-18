@@ -1,5 +1,5 @@
 # latihan-git
---Folder Latihan | Belajar menggunakan Git &amp; Github
+--Folder Latihan | Belajar menggunakan Git dan Github
 
 
 # PERINTAH DASAR GIT
@@ -16,8 +16,11 @@ $ git commit -m "update validasi"
 Simpan ke Github
 $ git push
 
+Update data dari Github ke PC
+$ git pull
+
 Cek remote Github
 $ git remote -v
 
 Ambil data guthub (clone)
-$ git clone git clone __alamat_github_clone__
+$ git clone __alamat_github_clone__
